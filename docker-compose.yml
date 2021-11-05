@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  www:
+  alekssro-web:
     image: ghcr.io/linuxserver/swag
     container_name: alekssro-web
     cap_add:
